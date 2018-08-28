@@ -236,7 +236,7 @@
 	#slide-navbar-collapse{
 		position: fixed;
 		top: 0;
-		right: -466px;
+		right: -659px;
 		z-index: 99;
 		width: 87%;
 		height: 100%;
@@ -484,9 +484,6 @@
 	.overpromo::-webkit-scrollbar-thumb {
 		-webkit-border-radius: 10px;
 		border-radius: 10px
-	}
-
-	.overpromo::-webkit-scrollbar-thumb:window-inactive {
 	}
 
 
@@ -1018,7 +1015,7 @@
 	#slide-navbar-collapse{
 		position: fixed;
 		top: 0;
-		right: -466px;
+		right: -539px;
 		z-index: 99;
 		width: 87%;
 		height: 100%;
