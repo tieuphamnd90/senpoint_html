@@ -2351,6 +2351,9 @@
 	.box_conten_web{
 		padding-bottom: 0px;
 	}
+	.m_footer{
+		padding-top: 1px;
+	}
 }
 @media (max-width: 320px){
 
