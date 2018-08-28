@@ -708,7 +708,6 @@ body {
 .dl_footer{
 	background-image: url("../img/bg_fotter.jpg") ;
 	background-repeat:no-repeat ;
-	margin-top: 34px;
 }
 .box_dl_footer{
 	padding: 70px 0px 70px 0px;
@@ -1006,4 +1005,7 @@ body {
 }
 .bt_none{
 	border-bottom: 0px!important;
+}
+.box_conten_web{
+	padding-bottom: 34px;
 }
